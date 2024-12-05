@@ -15,9 +15,10 @@ In building the machine learning model for the CulturLens application, we will u
 - Jupyter Notebook
 - Matplotlib
 - os
-- 
 ## Datasets
 We got a collection of data from the object location directly, we collected more than 1400 photos with many labels, namely 7 sacred object labels
-Link Dataset : https://drive.google.com/file/d/1Q_-lGZUO2Xkao3APiXpClak6V-XQ0MqP/view?usp=sharing
+<br>
+Link Dataset : https://drive.google.com/drive/folders/1gWSzHvpI4n5IjHw61zBzR9fuSTtb-KMq?usp=sharing
+Link Dataset after ZIP : https://drive.google.com/file/d/1Q_-lGZUO2Xkao3APiXpClak6V-XQ0MqP/view?usp=sharing
 ## Deployment
 We use TensorFlow lite to deploy the machine learning model
