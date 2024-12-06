@@ -11,7 +11,8 @@ For this model's dataset, we collected data on seven sacred objects in Bali, wit
 </ol>
 <br>
 
-We Team Machine Learning find the data on internet and take the picture sacral object right on the spot, Then we saved data on drive. <br>
+Dataset Collection:<br>
+Our machine learning team gathered the dataset by sourcing images from the internet and capturing photos of sacred objects on-site. The collected data was then stored in Google Drive for further processing. <br>
 Link : https://drive.google.com/drive/folders/1gWSzHvpI4n5IjHw61zBzR9fuSTtb-KMq?usp=sharing
 
 After Collected data we create a zip dataset to procesing on Notebook <br>
