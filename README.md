@@ -1,6 +1,13 @@
 # CulturLens Machine Learning
 CulturLens is a mobile application that utilizes machine learning to detect sacred objects in Bali through the smartphone camera. The app will provide relevant information and restrictions about these objects, enhancing the cultural awareness of users. Additionally, it will feature a community forum for tourists to engage in discussions about Balinese culture and traditions. It is hoped that this application can reduce tourists who violate the traditional values ​​of sacred objects in Bali.
 
+## Contributors
+| Name | Bangkit ID | 
+| ------ | ------ |
+| Amsal Hamonangan Butarbutar | M014B4KY0469 | 
+| I Kadek Adi Memes Subagia | M014B4KY1832 | 
+| Putu Sintya Kumari Dewi | M014B4KX3539 | 
+
 ## Description
 This repository contains machine learning projects used in the CulturLens mobile application (Android). It includes datasets, methods, tools, libraries, and IDEs used in the machine learning implementation of the CulturLens mobile application.
 
