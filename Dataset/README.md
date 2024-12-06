@@ -1,4 +1,4 @@
-For the dataset this model we Collected the data 7 object sacral on bali. <br>
+For this model's dataset, we collected data on seven sacred objects in Bali, with each object representing a class. The goal is to build a model for object classification. The classes include : <br>
 
 <ol>
   <li>Canang</li>
